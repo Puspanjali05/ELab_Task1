@@ -60,7 +60,7 @@ To clean and prepare raw data for Machine Learning by handling:
 ## 📁 Files Included
 
 - `ElevateLabs_Task1.ipynb` – Jupyter notebook with full implementation
-- `titanic.csv` – Dataset used
+- `Titanic-Dataset.csv` – Dataset used
 - `README.md` – This file
 
 ---
